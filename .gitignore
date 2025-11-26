@@ -1,0 +1,31 @@
+# Compiled files
+*.o
+*.out
+*.exe
+*.bin
+*.app
+*.dSYM/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# CMake build files
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# Test executables (preserve source .c files)
+test_struct
+slist_test
+sparseTranspose
+stack
+sl
+test
